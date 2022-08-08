@@ -5,9 +5,6 @@
         <members>MultiPicklistFieldCompareInvocableTest</members>
         <name>ApexClass</name>
     </types>
-    <types>
-        <members>Multi_Select_Picklist_Field_Compare_Flow-1</members>
-        <name>Flow</name>
-    </types>
+     
     <version>40.0</version>
 </Package>
